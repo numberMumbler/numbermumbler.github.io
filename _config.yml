@@ -1,0 +1,8 @@
+title: NumberMumbler
+description: "Thoughts on Software Development"
+baseurl: ""
+url: "https://www.numbermumbler.com"
+
+
+markdown: kramdown
+highlishter: rouge

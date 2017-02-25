@@ -5,7 +5,9 @@
 
     <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
-    <link rel="stylesheet" href="{{ "/styles/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/88de3d2324.css">
+    <link rel="stylesheet" href="{{ "/styles/main.css" | prepend: site.baseurl }}">
 </head>

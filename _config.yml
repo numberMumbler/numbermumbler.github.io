@@ -1,8 +1,11 @@
-title: NumberMumbler
+title: numberMumbler
 description: "Thoughts on Software Development"
 baseurl: ""
-url: "https://www.numbermumbler.com"
-
+author: "David Janke"
 
 markdown: kramdown
 highlishter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed

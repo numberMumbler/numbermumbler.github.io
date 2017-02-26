@@ -5,6 +5,13 @@ baseurl: ""
 author: "David Janke"
 fb-id: "1832411473678719"
 
+social:
+    twitter: "numberMumbler"
+    github: "numberMumbler"
+    linkedin: "LinkedIn"
+    keybase: "numbermumbler"
+
+
 markdown: kramdown
 highlishter: rouge
 excerpt_separator: "<!--excerpt-->"

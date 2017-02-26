@@ -17,10 +17,15 @@ If you stop me on the street and hand me a laptop, I could bang out code in any 
 
 Here's how to get ahold of me:
 
-[<i class="fa fa-twitter fa-3x" aria-hidden="true"></i> @numberMumbler](https://twitter.com/numberMumbler/)
-
-[<i class="fa fa-github fa-3x" aria-hidden="true"></i> numberMumbler](https://github.com/numberMumbler/)
-
-[<i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i> David Janke](https://www.linkedin.com/in/davidjanke)
-
-[keybase.io/numbermumbler](https://keybase.io/numbermumbler)
+{% if site.social.twitter %}
+[<i class="fa fa-twitter fa-3x" title="Twitter"></i> @{{ site.social.twitter }}](https://twitter.com/{{ site.social.twitter }}/)
+{% endif %}
+{% if site.social.github %}
+[<i class="fa fa-github fa-3x" title="GitHub"></i> {{ site.social.github }}](https://github.com/{{ site.social.github }}/)
+{% endif %}
+{% if site.social.linkedin %}
+[<i class="fa fa-linkedin-square fa-3x" title="LinkedIn"></i> {{ site.author }}](https://www.linkedin.com/in/{{ site.social.linkedin }})
+{% endif %}
+{% if site.social.keybase %}
+[keybase.io/{{ site.social.keybase }}](https://keybase.io/{{ site.social.keybase }})
+{% endif %}

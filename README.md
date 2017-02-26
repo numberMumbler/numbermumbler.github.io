@@ -1,11 +1,11 @@
 # numberMumbler.com
 
 ## Page Meta Data
-"social" prefix indicates stuff used for [Facebook](https://developers.facebook.com/docs/sharing/webmasters#markup), [Twitter cards](), [OpenGraph](http://opengraphprotocol.org/), etc 
+"social" prefix indicates stuff used for [Facebook](https://developers.facebook.com/docs/sharing/webmasters#markup), [Twitter cards](https://dev.twitter.com/cards/overview), [OpenGraph](http://opengraphprotocol.org/), etc 
 
 - **title** page title; defaults to site title
 - **social-title** defaults to _title_
-- **description** meta description; defaults to excerpt
+- **description** description used in post listing & meta data; defaults to excerpt
 - **social-description** defaults to _description_
 - **image-url** primary image used in article and sent to social sites
 - **tags** used to group similar articles on the site

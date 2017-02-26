@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+description: "Who is this David Janke? What is he interested in? How can you get in touch with him?"
 in-menu: true
 fa: fa-coffee
 ---

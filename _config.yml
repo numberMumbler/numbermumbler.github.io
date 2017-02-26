@@ -1,8 +1,9 @@
-title: numberMumbler
+title: numberMumbler.com
 description: "Thoughts on Software Development"
 url: "https://www.numberMumbler.com"
 baseurl: ""
 author: "David Janke"
+fb-id: "1832411473678719"
 
 markdown: kramdown
 highlishter: rouge

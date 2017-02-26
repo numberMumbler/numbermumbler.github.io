@@ -6,15 +6,24 @@ in-menu: true
 fa: fa-coffee
 ---
 
-I'm a senior-level software developer, working mostly on web sites and web services. Currently, my interest is in integrating AI and machine learning into mainstream, line-of-business applications. I'm also grinding my way through a Master's in CS at Georgia Tech.
+Hi. I'm David Janke. I'm a senior-level software developer, working mostly on web sites and web services. Currently, my interest is in integrating AI and machine learning into mainstream, line-of-business applications. I'm also grinding my way through a Master's in CS at Georgia Tech.
 
-If you stop me on the street and hand me a laptop, I could bang out code in any of the following languages:
+If you stop me on the street and hand me a laptop, I can bang out an application in any of the following languages:
 
 - C#
 - Python
 - JavaScript
+
+I'm also pretty familiar with these:
+
+- Rust
+- R
 - Clojure
-- Rust (well, not yet by hopefully soon)
+- F#
+- Java
+- PowerShell
+- PHP
+- XSLT
 
 Here's how to get ahold of me:
 

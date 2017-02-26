@@ -22,3 +22,5 @@ Here's how to get ahold of me:
 [<i class="fa fa-github fa-3x" aria-hidden="true"></i> numberMumbler](https://github.com/numberMumbler/)
 
 [<i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i> David Janke](https://www.linkedin.com/in/davidjanke)
+
+[keybase.io/numbermumbler](https://keybase.io/numbermumbler)

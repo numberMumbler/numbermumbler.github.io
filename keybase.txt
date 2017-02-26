@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/numbermumbler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.numbermumbler.com
+  * I am numbermumbler (https://keybase.io/numbermumbler) on keybase.
+  * I have a public key with fingerprint 3029 8EA8 FBBC C926 B467  D497 F63E 5E96 CD7D F4C6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018d656b5195d91b6632700f7bf32cfe5c5b5b6db74b5237cf259f2a5bcd18d8ae0a",
+            "fingerprint": "30298ea8fbbcc926b467d497f63e5e96cd7df4c6",
+            "host": "keybase.io",
+            "key_id": "f63e5e96cd7df4c6",
+            "kid": "01018d656b5195d91b6632700f7bf32cfe5c5b5b6db74b5237cf259f2a5bcd18d8ae0a",
+            "uid": "13bf7744ba8e9cbc9193cf1d3ad74219",
+            "username": "numbermumbler"
+        },
+        "revoke": {
+            "sig_ids": [
+                "864a9255a82e480460e3fab9f480e8f757bb53fdafe42ba6b6d172b575b3d5fe0f"
+            ]
+        },
+        "service": {
+            "hostname": "www.numbermumbler.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1488067364,
+    "expire_in": 157680000,
+    "prev": "192b1bd63ba0403bc626f680a0ccf7f250d2f678a4889af7439f80aeaccba490",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMJwAnicrZJfaBRHAMbvUq0aLNjWaDT0wTXSSEM6O7szs3MRilVM6UvFavSses7f
+y5Lc7nX3conENJU82AZTaLVV0TTYBISCiIpWDaJEUduIPhSbB0GiwUelNBZKi9DZ
+wz4IfXQfZpnZ7/vmN9/OtddeSVWn172zsCFYeqM2PTFe1ZnacrquvsfiodxlZXqs
+dlV5qQ6p4lKu3ZdWxgI2sD2JEebIpkhSm2PsQAKAJlw7UGiFBOKIY8mJyxF0iNAQ
+UQ0Z4kIaq8cUYFajpf0gr6Ji5AclE+sASD3FPM25EBRi7mIiXUo0dhRSFAtJpHYF
+Nsa2ME4cBo6zWDX5oVkzk1wF73/0L5m7sxJnO1wT4rqceYoKLqhNHaFt6TBJXGjT
+RBirKGAFZdRBZ4GrqGDGDhVZvY1WpMphu0rKjf28IY+tzCeWh11GIULMg8r1gIuB
+cjTjVJuJ8jRBhHPkaMm0ciFn2LDaBHJEEHck0gpoa7vJNtuWfVEJT6p6jtDV1dX0
+AkaTCAuGshiFpVCEHUbSVioV40yCV9pVrHgUzz1Py3E/kOaPGUdZRbEfBlbGNkpR
+8pN42/U8gImD3UZLdRf9SOX8RIEI9oB5kn1UOemNQm5ziR3OgAscLjDE2mgYEEIT
+0ziQUGPiMRNImSauQ7X5qpgQnLkUWMn5Pg1Ckw0NJ8ubTFNhwEqdkbJ6x69sm5VK
+V6denV2VXOVU9bwF/13wPeU5zxYerWto88Z+3zY9tmXn0FB+5ZwDQ9c+W32h+6S/
+u2t6+d8jA82Hmu+MfnjjyIxnTx/8epO9ZM/tS4Mt/GT9vrenRmThz+UPd4z9cylb
+f+bms48z4/vvopV/DK45u/irvf3fZiePb76e/yB6Y2C0du5Pj5dMPgGrpod+nbuh
+ZXVfcdF36/TVdn9qQff5I+kfWjfK/hM1p+69N7V/a+1b956+O5z+4stll99/sPb7
+bvJblrdcHVy/akfd54fn/3K/te+jO7dGSM8jjCZm323oy+6Gdu/D0ZkV4Ztbbx6r
+jfama+BF8hcLN8/6uXUmBhvuHxiumqxPN8+cmzj/+kGxve/RQPbHsf5vrtRc+Bd3
+K1zd
+=kXuP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/numbermumbler
+
+==================================================================

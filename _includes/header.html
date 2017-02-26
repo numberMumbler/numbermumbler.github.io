@@ -5,7 +5,7 @@
 			<div id="navbarNav">
 				<ul class="navbar-nav">
 					{% for p in site.pages %}
-						{% if p.in_menu and p.title %}
+						{% if p.in-menu and p.title %}
 						<li class="nav-item">
 							<a class="nav-link{% if page.url == p.url %} active{% endif %}" href="{{ p.url | prepend: site.baseurl }}">
 								{% if p.fa %}<i class="fa {{ p.fa }}"></i>{% endif %}

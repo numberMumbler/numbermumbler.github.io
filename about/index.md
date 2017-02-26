@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About"
-in_menu: true
+in-menu: true
 fa: fa-coffee
 ---
 

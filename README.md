@@ -12,3 +12,5 @@
 - **author** article (or page) creator; defaults to site author
 - **category** high-level section
 - **modified-date** use if an article gets updated after publication
+- **in-menu** boolean used to include a _page_ in the site's navigation
+- **fa** FontAwesome class used in navigation menu

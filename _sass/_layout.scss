@@ -16,3 +16,16 @@ footer {
 .post-meta {
     margin-bottom: $spacing-unit;
 }
+
+/* goodreads widget */
+.gr_grid_container {
+    text-align: center;
+
+    .gr_grid_book_container {
+        display: inline-block;
+        width: 98px;
+        height: 160px;
+        padding: 0px 0px;
+        overflow: hidden;
+    }
+}

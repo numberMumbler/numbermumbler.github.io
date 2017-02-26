@@ -5,6 +5,7 @@ author: "David Janke"
 
 markdown: kramdown
 highlishter: rouge
+excerpt_separator: "<!--excerpt-->"
 
 sass:
     sass_dir: _sass

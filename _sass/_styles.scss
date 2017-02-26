@@ -1,8 +1,35 @@
-h1 { 
+body {
+    color: $color-general-text;
+}
+
+h1, h2, h3 { 
     color: $color-header-text;
     font-family: $font-header;
 }
 
+a {
+    color: $color-link-text;
+}
+a:hover {
+    color: $color-link-hover;
+}
+a:active {
+    color: $color-link-active;
+}
+a:visited {
+    color: $color-link-visited;
+}
+
 footer {
     font-size: $font-size-small;
+}
+
+.post-meta {
+    font-size: $font-size-small;
+    color: $color-secondary-text;
+}
+
+.post-link {
+    display: block;
+    font-size: $font-size-header;
 }

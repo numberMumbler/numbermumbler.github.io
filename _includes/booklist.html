@@ -1,0 +1,6 @@
+<div class="gr_grid_container">
+    {% for book in site.data.goodreads %}
+    <div class="gr_grid_book_container"><a title="{{ book.title }}" href="{{ book.link }}"><img alt="{{ book.title_without_series }}" src="{{ book.image_url }}"></a></div>
+    {% endfor %}
+</div>
+<p>from <a href="https://www.goodreads.com/user/show/3192714-david">Goodreads</a></p>

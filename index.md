@@ -1,6 +1,7 @@
 ---
 layout: default
 in_menu: false
+title: ""
 ---
 
 ## Recent Posts

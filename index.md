@@ -1,7 +1,8 @@
 ---
 layout: default
 in_menu: false
-title: ""
+title: Home
+hide_title: true
 ---
 
 ## Recent Posts

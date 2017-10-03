@@ -5,8 +5,6 @@ title: Home
 hide_title: true
 ---
 
-## Recent Posts
-
 ![we're working](https://s3.amazonaws.com/numberMumbler/tilde/anim0206-1_e0.gif)
 
 **Under Construction!**

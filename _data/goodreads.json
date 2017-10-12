@@ -1,5 +1,17 @@
 [
   {
+    "image_url": "https://images.gr-assets.com/books/1480623393m/33221518.jpg",
+    "link": "https://www.goodreads.com/book/show/33221518-software-architecture-for-developers",
+    "title": "Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility",
+    "title_without_series": "Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility"
+  },
+  {
+    "image_url": "https://images.gr-assets.com/books/1440565049m/23705512.jpg",
+    "link": "https://www.goodreads.com/book/show/23705512-you-re-never-weird-on-the-internet",
+    "title": "You're Never Weird on the Internet",
+    "title_without_series": "You're Never Weird on the Internet"
+  },
+  {
     "image_url": "https://images.gr-assets.com/books/1407111017m/34497.jpg",
     "link": "https://www.goodreads.com/book/show/34497.The_Color_of_Magic",
     "title": "The Color of Magic (Discworld, #1; Rincewind #1)",
@@ -46,17 +58,5 @@
     "link": "https://www.goodreads.com/book/show/13521382-the-violinist-s-thumb",
     "title": "The Violinist's Thumb: And Other Lost Tales of Love, War, and Genius, as Written by Our Genetic Code",
     "title_without_series": "The Violinist's Thumb: And Other Lost Tales of Love, War, and Genius, as Written by Our Genetic Code"
-  },
-  {
-    "image_url": "https://images.gr-assets.com/books/1447866792m/26891429.jpg",
-    "link": "https://www.goodreads.com/book/show/26891429-the-city-of-mirrors",
-    "title": "The City of Mirrors (The Passage, #3)",
-    "title_without_series": "The City of Mirrors"
-  },
-  {
-    "image_url": "https://images.gr-assets.com/books/1451351509m/21413662.jpg",
-    "link": "https://www.goodreads.com/book/show/21413662-what-if",
-    "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
-    "title_without_series": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
   }
 ]

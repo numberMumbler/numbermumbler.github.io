@@ -50,7 +50,7 @@ def get_goodreads_recently_read(user_id, count):
     """
     url = _GOODREADS_URL_TEMPLATE.format(key=get_key(), user_id=user_id, n=count)
     response = requests.get(url)
-    assert response.status_code == 200
+    assert response.status_code == 200, str(response.status_code) + " " + response.text
     return response.content
 
 

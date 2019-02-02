@@ -5,6 +5,7 @@ title: Home
 hide_title: true
 ---
 
+<h2>Latest Posts</h2>
 {% include recent-posts.html show-excerpt="true" post-count="3" %}
 
 <div class="row">

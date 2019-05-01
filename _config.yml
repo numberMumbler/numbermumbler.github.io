@@ -8,8 +8,10 @@ fb-id: "1832411473678719"
 social:
     twitter: "numberMumbler"
     github: "numberMumbler"
-    linkedin: "LinkedIn"
+    linkedin: "davidjanke"
     keybase: "numbermumbler"
+    goodreads: "3192714-david"
+    # instagram: "numbermumbler"
 
 
 markdown: kramdown
@@ -20,6 +22,6 @@ sass:
     sass_dir: _sass
     style: compressed
 
-gems:
+plugins:
     - jekyll-sitemap
     - jekyll-feed

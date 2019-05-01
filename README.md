@@ -1,5 +1,11 @@
 # numberMumbler.com
 
+## Update
+
+```bash
+bundle update github-pages
+```
+
 ## Page Meta Data
 "social" prefix indicates stuff used for [Facebook](https://developers.facebook.com/docs/sharing/webmasters#markup), [Twitter cards](https://dev.twitter.com/cards/overview), [OpenGraph](http://opengraphprotocol.org/), etc 
 

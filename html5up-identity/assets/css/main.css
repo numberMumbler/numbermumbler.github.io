@@ -154,10 +154,10 @@
 
 	body, input, select, textarea {
 		color: #414f57;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 14pt;
-		font-weight: 300;
-		line-height: 2;
+		font-family: "Source Sans Pro","HelveticaNeue","Helvetica Neue ","HelveticaNeue","Helvetica Neue","TeXGyreHerosRegular","Helvetica","Tahoma","Geneva","Arial",sans-serif;
+		font-size: 1.1em !important;
+		font-weight: 500;
+		line-height: 1.4em;
 		letter-spacing: 0.2em;
 		text-transform: uppercase;
 	}
@@ -209,6 +209,7 @@
 
 	p {
 		margin: 0 0 1.5em 0;
+		text-transform: none;
 	}
 
 	h1, h2, h3, h4, h5, h6 {

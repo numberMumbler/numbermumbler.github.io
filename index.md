@@ -5,6 +5,8 @@ title: Home
 hide_title: true
 ---
 
-Hi. I'm a senior-level software developer working on web sites and data pipelines.
+Hi. I'm a software developer with experience architecting and building web applications.
 
-Currently, my interests are around system architecture. I'm also keen on integrating AI & Machine Learning into business applications.
+My background is pretty broad. I've spent time doing everything from requirements gathering to hardening servers to writing customer-facing documentation. I'm currently interested in integrating AI & Machine Learning into business applications.
+
+Feel free to reach out if there's anything I can help you with.
